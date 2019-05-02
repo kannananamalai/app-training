@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.otpam.appname" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>App Name</name>
+<widget id="com.infitt.vaasipputhozhan" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Vaasippu Thozhan</name>
     <description>
-     Mobile App Training
+     வாசிப்புத் தோழன் எனும் குறுஞ்செயலி ணகர, நகர, னகர ஆகிய சொற்களை வாசிக்க எதுவாக விளங்கும் குறுஞ்செயலி ஆகும்
     </description>
     <author email="info@otpam.com" href="http://otpam.com">
    OTPAM
